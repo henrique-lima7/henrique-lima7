@@ -38,14 +38,6 @@
   width="30px" 
   style="padding-right: 10px;" 
 />
-<img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"     
-  align="left" 
-  alt="SQL" 
-  title="SQL" 
-  width="30px" 
-  style="padding-right: 10px;" 
-/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="28"
   align="left" 
