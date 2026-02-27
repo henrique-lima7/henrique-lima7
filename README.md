@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👨‍💻 José Henrique
 
-<!--
-**henrique-lima7/henrique-lima7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Estudante de Ciências da Computação
+> Em busca da primeira oportunidade na área
+---
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🏫 Estudante de **Ciências da Computação na UNICID** (20 anos).
+* 💼 Atualmente colaborando como **Auxiliar Administrativo**.
+* 🔥 Focado em aprender novas tecnologias e construir minha base técnica.
+* 🌱 Comprometido com a **dedicação diária** para conquistar minha primeira oportunidade no setor de tecnologia.
+
+### Linguagens e Tecnologias:
+
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"      
+  align="left" 
+  alt="HTML5" 
+  title="HTML5" 
+  width="30px" 
+  style="padding-right: 10px;" 
+/>
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  align="left" 
+  alt="CSS" 
+  title="CSS" 
+  width="30px" 
+  style="padding-right: 10px;" 
+/>
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"           
+  align="left" 
+  alt="PYTHON" 
+  title="HTML5" 
+  width="30px" 
+  style="padding-right: 10px;" 
+/>
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"     
+  align="left" 
+  alt="SQL" 
+  title="SQL" 
+  width="30px" 
+  style="padding-right: 10px;" 
+/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="28"
+  align="left" 
+  alt="C" 
+  title="C" 
+  width="20px" 
+  style="padding-right: 10px;" 
+/>
+
+
