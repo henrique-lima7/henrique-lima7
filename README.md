@@ -7,7 +7,7 @@
 ---
 </div>
 
-* 🏫 Estudante de **Ciências da Computação na UNICID** (20 anos).
+* 🏫 Estudo na faculdade Unicid e tenho 20 anos.
 * 💼 Atualmente colaborando como **Auxiliar Administrativo**.
 * 🔥 Focado em aprender novas tecnologias e construir minha base técnica.
 * 🌱 Comprometido com a **dedicação diária** para conquistar minha primeira oportunidade no setor de tecnologia.
